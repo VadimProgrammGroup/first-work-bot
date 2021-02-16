@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="card boostrapcard boostrapcard boostrapcard boostrap">
+      <change beforePath="$PROJECT_DIR$/../.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boostrap1" beforeDir="false" afterPath="$PROJECT_DIR$/../boostrap1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boostrap1 Vadim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../boostrap1 Vadim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boostrap1Vadim" beforeDir="false" afterPath="$PROJECT_DIR$/../boostrap1Vadim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inst" beforeDir="false" afterPath="$PROJECT_DIR$/../inst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k0BLH1imKJJWaXxUwAQzpXfAbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\learnEnglishApp\php" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\boostrap1" />
+      <recent name="C:\OpenServer\domains\localhost\boostrap1\css" />
+      <recent name="C:\OpenServer\domains\localhost\boostrap1\php" />
+      <recent name="C:\OpenServer\domains\localhost\boostrap1\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6685a3f6-2321-4697-848c-ceb82905ee29" name="Default Changelist" comment="" />
+      <created>1604827571086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604827571086</updated>
+      <workItem from="1604827572352" duration="7085000" />
+      <workItem from="1605425460079" duration="7260000" />
+      <workItem from="1606034017200" duration="4289000" />
+      <workItem from="1606643685454" duration="82000" />
+      <workItem from="1606652080060" duration="1071000" />
+      <workItem from="1606653283840" duration="8518000" />
+      <workItem from="1606669767966" duration="2229000" />
+      <workItem from="1606821566561" duration="23000" />
+      <workItem from="1607245453185" duration="7190000" />
+      <workItem from="1607428735711" duration="21000" />
+      <workItem from="1611660385516" duration="4838000" />
+      <workItem from="1612268228210" duration="7225000" />
+      <workItem from="1612278193387" duration="936000" />
+      <workItem from="1612793712833" duration="2287000" />
+      <workItem from="1612871950724" duration="8809000" />
+      <workItem from="1612883884414" duration="826000" />
+      <workItem from="1613227453138" duration="338000" />
+      <workItem from="1613283657564" duration="1489000" />
+      <workItem from="1613392867649" duration="425000" />
+      <workItem from="1613479889961" duration="4565000" />
+    </task>
+    <task id="LOCAL-00001" summary="card boostrap">
+      <created>1606671275506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606671275506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="card boostrapcard boostrapcard boostrapcard boostrap">
+      <created>1607254084231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607254084231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="card boostrap" />
+    <MESSAGE value="card boostrapcard boostrapcard boostrapcard boostrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="card boostrapcard boostrapcard boostrapcard boostrap" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604832812746">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="233" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.920@0.0.1280.920" timestamp="1604832812746" />
+    <state x="405" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604829145966">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="405" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.920@0.0.1280.920" timestamp="1604829145966" />
+    <state x="421" y="215" key="FileChooserDialogImpl" timestamp="1613393291466">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="421" y="215" key="FileChooserDialogImpl/0.0.1280.920@0.0.1280.920" timestamp="1613393291466" />
+    <state width="845" height="139" key="GridCell.Tab.0.bottom" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.bottom/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.center" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.center/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.left" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.left/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state width="845" height="139" key="GridCell.Tab.0.right" timestamp="1605431977193">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="845" height="139" key="GridCell.Tab.0.right/0.0.1280.920@0.0.1280.920" timestamp="1605431977193" />
+    <state x="458" y="172" key="NewPhpClassDialog" timestamp="1606659619373">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="458" y="172" key="NewPhpClassDialog/0.0.1280.920@0.0.1280.920" timestamp="1606659619373" />
+    <state x="476" y="383" key="NewPhpFileDialog" timestamp="1606657903146">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="476" y="383" key="NewPhpFileDialog/0.0.1280.920@0.0.1280.920" timestamp="1606657903146" />
+    <state x="149" y="105" key="SettingsEditor" timestamp="1605425519566">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="149" y="105" key="SettingsEditor/0.0.1280.920@0.0.1280.920" timestamp="1605425519566" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604832908752">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.920@0.0.1280.920" timestamp="1604832908752" />
+    <state x="233" y="193" key="Vcs.Push.Dialog.v2" timestamp="1612884078535">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="233" y="193" key="Vcs.Push.Dialog.v2/0.0.1280.920@0.0.1280.920" timestamp="1612884078535" />
+    <state x="458" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607254072851">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="458" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.920@0.0.1280.920" timestamp="1607254072851" />
+    <state x="297" y="211" key="run.anything.popup" timestamp="1612874213008">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="297" y="211" key="run.anything.popup/0.0.1280.920@0.0.1280.920" timestamp="1612874213008" />
+    <state x="303" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1611663083629">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="303" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1280.920@0.0.1280.920" timestamp="1611663083629" />
+  </component>
+</project>
